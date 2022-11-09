@@ -1,0 +1,21 @@
+{
+  "description": "undefined",
+  "main": "index.jsx",
+  "dependencies": {
+    "antd": "4.x",
+    "react": ">=16.8.0",
+    "form-render": "1.13.21",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "name": "bro3r8",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

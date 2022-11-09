@@ -1,0 +1,11 @@
+{
+  "description": "undefined",
+  "main": "index.jsx",
+  "dependencies": {
+    "antd": "4.x",
+    "react": ">=16.8.0",
+    "form-render": "1.13.21",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {}
+}
